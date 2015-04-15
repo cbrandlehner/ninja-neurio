@@ -3,5 +3,11 @@
 This is a driver for the Ninja Block ecosystem. Read this documentation for more information:<br />
 http://docs.ninja.is/quickstarts/driverrealm/installdrivers.html
 
+Install this Driver with:
+Manual Installation
 
-TODO: More documentation
+    cd into your drivers directory (/opt/ninja/drivers on your Ninja Block)
+    git clone git://github.com/cbrandlehner/ninja-neurio.git
+    cd ninja-neurio
+    npm install
+    sudo service ninjablock restart
