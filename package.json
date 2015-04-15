@@ -1,7 +1,7 @@
 {
-  "name": "neurio",
-  "version": "0.1.1",
-  "description": "Neurio API client",
+  "name": "ninja-neurio",
+  "version": "0.0.1",
+  "description": "NinjaBlock Neurio API client",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
@@ -13,12 +13,13 @@
     "consumption",
     "smart",
     "home",
-    "automation"
+    "automation",
+    "Ninja"
   ],
-  "author": "David Sanchez",
+  "author": "Christian Brandlehner, David Sanchez",
   "repository": {
     "type": "git",
-    "url": "http://github.com/maaaikoool/neurio.git"
+    "url": "http://github.com/cbrandlehner/ninja-neurio.git"
   },
   "license": "MIT",
   "dependencies": {
