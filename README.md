@@ -5,9 +5,9 @@ http://docs.ninja.is/quickstarts/driverrealm/installdrivers.html
 
 Install this Driver:
 <blockquote>
-    cd into your drivers directory (/opt/ninja/drivers on your Ninja Block)
-    git clone git://github.com/cbrandlehner/ninja-neurio.git
-    cd ninja-neurio
-    npm install
-    sudo service ninjablock restart
+    cd into your drivers directory (/opt/ninja/drivers on your Ninja Block)<br />
+    git clone git://github.com/cbrandlehner/ninja-neurio.git<br />
+    cd ninja-neurio<br />
+    npm install<br />
+    sudo service ninjablock restart<br />
 </blockquote>
