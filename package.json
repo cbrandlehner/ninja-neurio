@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "request-promise": "^0.3.x"
+    "request-promise": "^0.4.2"
   },
   "devDependencies": {
     "nock": "^1.5.0",
