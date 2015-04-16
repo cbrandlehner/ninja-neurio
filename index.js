@@ -79,7 +79,7 @@ function PowerUsage(opts,app) {
  * @param  {Object}   rpc.params Any input data the user provided
  * @param  {Function} cb      Used to match up requests.
  */
-OutsideTemp.prototype.config = function(rpc,cb) {
+PowerUsage.prototype.config = function(rpc,cb) {
 
   var self = this;
 
